@@ -1,0 +1,13 @@
+{
+    "server": "",
+    "server_port": "",
+    "password": "",
+    "method": "aes-256-cfb",
+    "local_address": "0.0.0.0",
+    "local_port":1080,
+    "plugin": "",
+    "plugin_opts": "",
+    "plugin_args": "",
+    "remarks": "",
+    "timeout": 100
+}

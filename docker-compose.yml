@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+
+  ss:
+    build:
+      dockerfile: ./dockerfile
+      context: .
+    ports:
+      - 1080:1080
